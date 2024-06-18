@@ -20,6 +20,6 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroBarp&show_icons=true" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroBarp&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
 </div>
